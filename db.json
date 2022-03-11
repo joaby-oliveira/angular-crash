@@ -10,19 +10,18 @@
       "id": 2,
       "text": "Reunião na firma",
       "day": "5 de Maio 16:30",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Estudar node e angular",
-      "day": "5 de Maio 17:30",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "text": "Estudar node e react",
-      "day": "5 de Maio 17:30",
       "reminder": false
+    },
+    {
+      "text": "da seus pulo",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "sad",
+      "day": "",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
