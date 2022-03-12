@@ -1,6 +1,6 @@
 import { Routes } from '@angular/router';
-import { AboutComponent } from './components/about/about.component';
-import { TasksComponent } from './components/tasks/tasks.component';
+import { AboutComponent } from './pages/about/about.component';
+import { TasksComponent } from './pages/tasks/tasks.component';
 
 export const appRoutes: Routes = [
   { path: '', component: TasksComponent },
